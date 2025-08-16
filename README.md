@@ -9,7 +9,7 @@ This repository contains the complete code and insights from a one-day hands-on 
 
 ## 📂 Datasets Used
 
-- `zomato.csv`: Restaurant-level data including ratings, delivery options, cuisine types, and geographic details.
+- `foodservice.csv`: Restaurant-level data including ratings, delivery options, cuisine types, and geographic details.
 - `Country-Code.xlsx`: Mapping of country codes to country names.
 
 ---
@@ -69,8 +69,8 @@ This repository contains the complete code and insights from a one-day hands-on 
 
 Special thanks to:
 - **Pranav Jaipurkar**
-- **Chirag**
-- **Sandhya**
+- **Chirag Jhumkawala**
+- **Sandhya Hinduja**
 
 for their guidance and contributions during the session.
 
